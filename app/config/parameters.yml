@@ -1,0 +1,8 @@
+# This file is auto-generated during the composer install
+parameters:
+    env(DATABASE_HOST):      ec2-54-246-108-119.eu-west-1.compute.amazonaws.com
+    env(DATABASE_PORT):      5432
+    env(DATABASE_NAME):      dachug7aal1sb3
+    env(DATABASE_USER):      ucfkisurqvftaf
+    env(DATABASE_PASSWORD):  00cad7d8e0d3600cbf91a7891e37dd66cfe6cb90de8fc6aec4f7608e8b3635b8
+    secret: 9edd85cbc211fcb03b84f2f4114fcd36f9d82dec
